@@ -3,12 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-svg</artifactId>
   <versioning>
-    <latest>12.4.3-jitsi-13266385</latest>
-    <release>12.4.3-jitsi-13266385</release>
+    <latest>12.4.3-jitsi-13327671</latest>
+    <release>12.4.3-jitsi-13327671</release>
     <versions>
-      <version>12.4.3-jitsi-13261200</version>
-      <version>12.4.3-jitsi-13266385</version>
+      <version>12.4.3-jitsi-13327671</version>
     </versions>
-    <lastUpdated>20230316100415</lastUpdated>
+    <lastUpdated>20230323121836</lastUpdated>
   </versioning>
 </metadata>
